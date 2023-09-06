@@ -10,12 +10,12 @@ plugins {
 
 android {
     namespace = "com.example.graphqlandroid"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.graphqlandroid"
         minSdk = 24
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
